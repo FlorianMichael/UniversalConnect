@@ -1,3 +1,7 @@
+# IntelliJ Folders and Files
+.idea/
+universalconnect.iml
+
 # Compiled class file
 *.class
 
