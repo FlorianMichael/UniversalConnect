@@ -10,7 +10,7 @@ This is the libary to make protocol supports for more versions.
 |[Lombok](https://github.com/rzwitserloot/lombok)|[rzwitserloot](https://github.com/rzwitserloot)|[MIT License](https://github.com/rzwitserloot/lombok/blob/master/LICENSE)|
 
 ### Contribute
-You can contribute to this project. You must follow the [commit guidelines](https://google.de/) to contribute a fix or extension for this project. You can create a `pull request` to this repository with your [fork](https://github.com/xVoiceSyntax/UniversalConnect/fork).
+You can contribute to this project. You must follow the [commit guidelines](https://github.com/xVoiceSyntax/UniversalConnect/blob/main/Commit.md) to contribute a fix or extension for this project. You can create a `pull request` to this repository with your [fork](https://github.com/xVoiceSyntax/UniversalConnect/fork).
 
 ## Contributors
 ***Thanks to all these wonderful people***
