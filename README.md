@@ -1,6 +1,6 @@
 # UniversalConnect
 A multiversion implementation for minecraft, that allows the player to connect with mutliple versions on a server.
-This is the libary to make protocol supports for more versions.
+This is the library to make protocol supports for more versions.
 
 ## Developer Information
 
